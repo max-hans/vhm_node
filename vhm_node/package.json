@@ -1,0 +1,17 @@
+{
+  "name": "vhm_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all": "0.0.0",
+    "brain": "^0.7.0",
+    "minimist": "^1.2.0",
+    "ws": "^3.3.3"
+  }
+}
